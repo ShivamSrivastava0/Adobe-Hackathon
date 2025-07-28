@@ -67,7 +67,33 @@ Given a collection of PDFs, a persona, and a job-to-be-done, automatically ident
 
 ## 📂 Folder Structure
 
-/ ├── Challenge_1A/ │ ├── Dockerfile │ ├── process_pdfs.py │ └── ... ├── Challenge_1B/ │ ├── Dockerfile │ ├── run_1b.py │ ├── modules/ │ │ ├── pdf_utils.py │ │ └── semantic_ranker.py │ ├── requirements.txt │ ├── approach_explanation.md │ ├── Collection_1/ │ │ ├── PDFs/ │ │ ├── challenge1b_input.json │ │ └── challenge1b_output.json │ ├── Collection_2/ │ │ ├── PDFs/ │ │ ├── challenge1b_input.json │ │ └── challenge1b_output.json │ ├── Collection_3/ │ │ ├── PDFs/ │ │ ├── challenge1b_input.json │ │ └── challenge1b_output.json │ └── output/ └── README.md # (this file)
+/
+├── Challenge_1A/
+│   ├── Dockerfile
+│   ├── process_pdfs.py
+│   └── ...
+├── Challenge_1B/
+│   ├── Dockerfile
+│   ├── run_1b.py
+│   ├── modules/
+│   │   ├── pdf_utils.py
+│   │   └── semantic_ranker.py
+│   ├── requirements.txt
+│   ├── approach_explanation.md
+│   ├── Collection_1/
+│   │   ├── PDFs/
+│   │   ├── challenge1b_input.json
+│   │   └── challenge1b_output.json
+│   ├── Collection_2/
+│   │   ├── PDFs/
+│   │   ├── challenge1b_input.json
+│   │   └── challenge1b_output.json
+│   ├── Collection_3/
+│   │   ├── PDFs/
+│   │   ├── challenge1b_input.json
+│   │   └── challenge1b_output.json
+│   └── output/
+└── README.md  # (this file)
 
 
 ---
