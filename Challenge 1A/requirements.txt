@@ -1,0 +1,12 @@
+PyMuPDF
+scikit-learn
+layoutparser
+langdetect
+pyspellchecker
+pdfminer.six
+pytesseract
+pdf2image
+Pillow
+scikit-learn
+pdfminer.six==20221105
+PyMuPDF

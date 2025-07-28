@@ -1,0 +1,3559 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR Professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "timestamp": "2025-07-28T10:48:43.492404Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Create and Share the Link",
+      "importance_rank": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Create and Share the Link",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "section_title": "Fill and Sign PDF Forms",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 28,
+      "section_title": "Select and copy text and images",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 13,
+      "section_title": "Save forms",
+      "importance_rank": 6
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Is the form fillable?",
+      "importance_rank": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "section_title": "Auto-Complete forms (interactive forms",
+      "importance_rank": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 13,
+      "section_title": "Using Create PDF cloud service for PDF",
+      "importance_rank": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 17,
+      "section_title": "Manage your bulk sends",
+      "importance_rank": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "section_title": "Print forms",
+      "importance_rank": 11
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "sharing process is smooth and professional. Start sharing smarter today.",
+      "importance_rank": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Fill in PDF Forms",
+      "importance_rank": 13
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "help you manage your PDF sharing needs.",
+      "importance_rank": 14
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Professional Tip: Clear Instructions",
+      "importance_rank": 15
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Types of PDF forms",
+      "importance_rank": 16
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "\u2022  Did you generate a shareable link and copy it for distribution?",
+      "importance_rank": 17
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Did you generate a shareable link and copy it for distribution?",
+      "importance_rank": 18
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Professional Tip: Highlight Key Details",
+      "importance_rank": 19
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Fill in interactive forms",
+      "importance_rank": 20
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 2,
+      "section_title": "19. Yes or No: Can you select and copy text and images from a PDF using the Select tool?",
+      "importance_rank": 21
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Add Clients and Stakeholders",
+      "importance_rank": 22
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 22,
+      "section_title": "Convert PDF to Text and XML 1.0",
+      "importance_rank": 23
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "Create PDFs by printing to file",
+      "importance_rank": 24
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 23,
+      "section_title": "Certifying and signing documents",
+      "importance_rank": 25
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "section_title": "What\u2019s the best way to create a PDF?",
+      "importance_rank": 26
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 22,
+      "section_title": "Convert Microsoft Word, PowerPoint, and",
+      "importance_rank": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 25,
+      "section_title": "Create the appearance of a certificate-based signature",
+      "importance_rank": 28
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 13,
+      "section_title": "About editing text and images",
+      "importance_rank": 29
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 11,
+      "section_title": "Group and ungroup markups",
+      "importance_rank": 30
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 27,
+      "section_title": "Create PDFs from Word mail merges",
+      "importance_rank": 31
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 9,
+      "section_title": "Sign component PDFs and PDF Portfolios",
+      "importance_rank": 32
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 2,
+      "section_title": "Annotations and drawing markup tools",
+      "importance_rank": 33
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 9,
+      "section_title": "View signed and certified PDF Portfolios",
+      "importance_rank": 34
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "confusion for your recipients.",
+      "importance_rank": 35
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 27,
+      "section_title": "PKCS#12 modules and tokens",
+      "importance_rank": 36
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 2,
+      "section_title": "Show annotations and drawing markup tools",
+      "importance_rank": 37
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "\u2022  Are you tracking who has accessed the document and",
+      "importance_rank": 38
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Are you tracking who has accessed the document and",
+      "importance_rank": 39
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "\u2022  Have you launched Acrobat or Acrobat Reader and opened",
+      "importance_rank": 40
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "\u2022  Have you launched Acrobat or Acrobat Reader and opened",
+      "importance_rank": 41
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "appears, and then drag a rectangle around the portion.",
+      "importance_rank": 42
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": ", draw a rectangle, right-click, and select Take a Snapshot.",
+      "importance_rank": 43
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Sharing PDFs with Adobe Acrobat is straightforward and efficient,",
+      "importance_rank": 44
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "\u2022  Have you added a personal touch to the subject and message",
+      "importance_rank": 45
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Have you added a personal touch to the subject and message",
+      "importance_rank": 46
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 2,
+      "section_title": "Set preferences for validating digital signatures",
+      "importance_rank": 47
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "clipboard or another application. Text and images are copied as an image.",
+      "importance_rank": 48
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 3,
+      "section_title": "Convert AutoCAD files to PDF (Acrobat Pro for",
+      "importance_rank": 49
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Sharing Checklist for Real Estate Professionals",
+      "importance_rank": 50
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Did you enter the email addresses of clients, agents, and other",
+      "importance_rank": 51
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "3.  Right-click the selection, and choose Save Selection As.",
+      "importance_rank": 52
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 30,
+      "section_title": "Provide feedback for generated answers",
+      "importance_rank": 53
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 16,
+      "section_title": "Enhance scanned file or camera images for",
+      "importance_rank": 54
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "Note: To deselect an image and start over, click outside it.",
+      "importance_rank": 55
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Ensure your email instructions are clear and concise to avoid any",
+      "importance_rank": 56
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another",
+      "importance_rank": 57
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "closing deals and keeping clients informed. Here's a tailored checklist to",
+      "importance_rank": 58
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 8,
+      "section_title": "File format op\ufffdons for PDF export in Acrobat",
+      "importance_rank": 59
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "Sign in preview mode for document integrity",
+      "importance_rank": 60
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "the document, right-click, and select Paste to paste the copied selection",
+      "importance_rank": 61
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "(macOS) Select Edit in the upper left. Then select Undo, Redo and More",
+      "importance_rank": 62
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "3.  Scenario: Imagine you're working on an important report and your computer crashes.",
+      "importance_rank": 63
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "2.  Right-click the image and select copy. Once done, you can paste it to a new file or a",
+      "importance_rank": 64
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "following up with clients for feedback or next steps?",
+      "importance_rank": 65
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "about saving, converting, and exporting PDFs? It's time to put your knowledge to the test.",
+      "importance_rank": 66
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "In the real estate industry, sharing documents efficiently is crucial for",
+      "importance_rank": 67
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes",
+      "importance_rank": 68
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "4.  In the Save As dialog, specify where you want to save the file, name the file, and then",
+      "importance_rank": 69
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "9.  Scenario: You're a graphic designer who needs to save a copy of a PDF Portfolio for a",
+      "importance_rank": 70
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "6.  Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to",
+      "importance_rank": 71
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "15. Scenario: You're a photographer who wants to save a PDF as a JPEG image for your",
+      "importance_rank": 72
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 2,
+      "section_title": "18. Scenario: You're a web developer who needs to export a PDF to HTML for your website.",
+      "importance_rank": 73
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do",
+      "importance_rank": 74
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "14. True or False: Higher resolutions, like 2400 ppi, are suitable for small page sizes.",
+      "importance_rank": 75
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 7,
+      "section_title": "commands",
+      "importance_rank": 76
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 7,
+      "section_title": "Convert a file to PDF using Acrobat menu",
+      "importance_rank": 77
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 9,
+      "section_title": "Convert a file to PDF using the Convert to PDF tool",
+      "importance_rank": 78
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 13,
+      "section_title": "conversion",
+      "importance_rank": 79
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 14,
+      "section_title": "Convert a file to PDF using PDFMaker",
+      "importance_rank": 80
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 20,
+      "section_title": "View PDFMaker conversion settings",
+      "importance_rank": 81
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 22,
+      "section_title": "Excel files to PDF",
+      "importance_rank": 82
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 23,
+      "section_title": "Convert email messages to PDFs",
+      "importance_rank": 83
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 24,
+      "section_title": "Add email messages or folders to an existing PDF",
+      "importance_rank": 84
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 26,
+      "section_title": "Set up automatic email archiving",
+      "importance_rank": 85
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 29,
+      "section_title": "Convert Visio files to PDF (Acrobat Pro)",
+      "importance_rank": 86
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 3,
+      "section_title": "Windows)",
+      "importance_rank": 87
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 6,
+      "section_title": "Excel-specific options on the Settings tab",
+      "importance_rank": 88
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 6,
+      "section_title": "Application-specific PDFMaker settings",
+      "importance_rank": 89
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "PowerPoint-specific options on the Settings tab",
+      "importance_rank": 90
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 14,
+      "section_title": "Adobe PDF printing preferences (Windows)",
+      "importance_rank": 91
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 17,
+      "section_title": "Reassign the port that the Adobe PDF printer uses",
+      "importance_rank": 92
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 17,
+      "section_title": "Set Adobe PDF printer properties (Windows)",
+      "importance_rank": 93
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 2,
+      "section_title": "Edit text in a PDF",
+      "importance_rank": 94
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 13,
+      "section_title": "Add images in a PDF",
+      "importance_rank": 95
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 13,
+      "section_title": "Edit images or objects in a PDF",
+      "importance_rank": 96
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 14,
+      "section_title": "Modify images in a PDF",
+      "importance_rank": 97
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 15,
+      "section_title": "Add Objects to PDF",
+      "importance_rank": 98
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 15,
+      "section_title": "Delete images from a PDF",
+      "importance_rank": 99
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 16,
+      "section_title": "Edit an image outside Acrobat",
+      "importance_rank": 100
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 1,
+      "section_title": "Export PDF images to another format",
+      "importance_rank": 101
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 3,
+      "section_title": "pages in a PDF",
+      "importance_rank": 102
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 3,
+      "section_title": "Rotate, move, delete, extract, or renumber",
+      "importance_rank": 103
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 4,
+      "section_title": "Extract random pages from a PDF",
+      "importance_rank": 104
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 4,
+      "section_title": "Extract pages from a PDF",
+      "importance_rank": 105
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 6,
+      "section_title": "Split PDFs into multiple documents",
+      "importance_rank": 106
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 8,
+      "section_title": "Copy a page between two PDFs",
+      "importance_rank": 107
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 8,
+      "section_title": "Move or copy pages in a PDF",
+      "importance_rank": 108
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 10,
+      "section_title": "Delete or replace pages in a PDF",
+      "importance_rank": 109
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 11,
+      "section_title": "Delete a page in a PDF",
+      "importance_rank": 110
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 13,
+      "section_title": "Renumber pages in a PDF",
+      "importance_rank": 111
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 14,
+      "section_title": "Recognize text on scanned PDF",
+      "importance_rank": 112
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 14,
+      "section_title": "Edit Scanned PDFs",
+      "importance_rank": 113
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 15,
+      "section_title": "Edit a scanned document",
+      "importance_rank": 114
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 16,
+      "section_title": "clear PDFs",
+      "importance_rank": 115
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 2,
+      "section_title": "Export",
+      "importance_rank": 116
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 4,
+      "section_title": "Recover the last saved version",
+      "importance_rank": 117
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 8,
+      "section_title": "Adobe PDF options",
+      "importance_rank": 118
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 12,
+      "section_title": "PDF to Microso\ufffd Word conversion se\ufffdngs",
+      "importance_rank": 119
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 13,
+      "section_title": "Convert PDF to RTF",
+      "importance_rank": 120
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 15,
+      "section_title": "Convert PDF to HTML Web Page",
+      "importance_rank": 121
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 17,
+      "section_title": "Convert PDF to Microso\ufffd Excel",
+      "importance_rank": 122
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 20,
+      "section_title": "PostScript (EPS)",
+      "importance_rank": 123
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 20,
+      "section_title": "Convert PDF to PostScript or Encapsulated",
+      "importance_rank": 124
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 30,
+      "section_title": "Convert selected content to other formats",
+      "importance_rank": 125
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "clipboard.",
+      "importance_rank": 126
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "hair icon",
+      "importance_rank": 127
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "\u2022  To select a portion of an image, hold the pointer over the image until the cross-",
+      "importance_rank": 128
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "\u2022  To select the entire image, select the image or drag a rectangle around it.",
+      "importance_rank": 129
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "1.  Using the Select tool",
+      "importance_rank": 130
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": ", do one of the following:",
+      "importance_rank": 131
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "images before text.",
+      "importance_rank": 132
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "select Preferences. Under Categories, Select General. Then select the Make Select tool select",
+      "importance_rank": 133
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "Select Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then",
+      "importance_rank": 134
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "Open the Preferences dialog box if you cannot select an image because of overlapping text.",
+      "importance_rank": 135
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "application, or a file.",
+      "importance_rank": 136
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "Copy images",
+      "importance_rank": 137
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "select Save.",
+      "importance_rank": 138
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "2.  Select the object or objects.",
+      "importance_rank": 139
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "1.  Select All tools > Use print production > Edit object.",
+      "importance_rank": 140
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "Using the Edit Object tool, you can save objects into a separate PDF.",
+      "importance_rank": 141
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "Export objects to separate PDF",
+      "importance_rank": 142
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "feature isn\u2019t available in Reader.",
+      "importance_rank": 143
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "You can save all the images from a PDF. See Export images to another format . This",
+      "importance_rank": 144
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "Note:",
+      "importance_rank": 145
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "directly into the target document.",
+      "importance_rank": 146
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "mouse/touchpad button. If a document is open in another application, go to",
+      "importance_rank": 147
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "The selection is copied automatically to the clipboard when you release the",
+      "importance_rank": 148
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "Colors in the selected area are inverted momentarily to highlight the selection.",
+      "importance_rank": 149
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Drag a rectangle within an image to copy just a portion of the image.",
+      "importance_rank": 150
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Drag a rectangle around the text or images or a combination of both.",
+      "importance_rank": 151
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "screen.",
+      "importance_rank": 152
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Select anywhere on the page to capture the entire content displayed on the",
+      "importance_rank": 153
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "2.  Do one of the following:",
+      "importance_rank": 154
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "more.",
+      "importance_rank": 155
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "1.   (Windows) Select the hamburger menu   in the upper left. Then select Undo, Redo &",
+      "importance_rank": 156
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "To use the Snapshot tool, do the following:",
+      "importance_rank": 157
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "tool",
+      "importance_rank": 158
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "You can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select",
+      "importance_rank": 159
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the",
+      "importance_rank": 160
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "Take a snapshot of a page",
+      "importance_rank": 161
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "To fill text fields:",
+      "importance_rank": 162
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "section_title": "Enable the Auto-Complete option",
+      "importance_rank": 163
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "section_title": "only)",
+      "importance_rank": 164
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 15,
+      "section_title": "Clear unsaved form entries",
+      "importance_rank": 165
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 16,
+      "section_title": "Sign an agreement",
+      "importance_rank": 166
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 18,
+      "section_title": "Remove your signature or initials",
+      "importance_rank": 167
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 2,
+      "section_title": "Overview of generative AI features",
+      "importance_rank": 168
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 9,
+      "section_title": "Before You Begin",
+      "importance_rank": 169
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 15,
+      "section_title": "Prerequisites",
+      "importance_rank": 170
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 15,
+      "section_title": "Acrobat",
+      "importance_rank": 171
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 21,
+      "section_title": "Report inappropriate content",
+      "importance_rank": 172
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 23,
+      "section_title": "features",
+      "importance_rank": 173
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 23,
+      "section_title": "Rate your experience with the generative AI",
+      "importance_rank": 174
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 32,
+      "section_title": "Turn off AI Assistant",
+      "importance_rank": 175
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 3,
+      "section_title": "Copy chat history",
+      "importance_rank": 176
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 4,
+      "section_title": "Read-aloud generated responses",
+      "importance_rank": 177
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 8,
+      "section_title": "Multiple document support in AI Assistant",
+      "importance_rank": 178
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 12,
+      "section_title": "Request access in Acrobat",
+      "importance_rank": 179
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 15,
+      "section_title": "Review the status of your request",
+      "importance_rank": 180
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 16,
+      "section_title": "Common questions",
+      "importance_rank": 181
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 17,
+      "section_title": "Prerequisites",
+      "importance_rank": 182
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 18,
+      "section_title": "License deployment",
+      "importance_rank": 183
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 2,
+      "section_title": "others",
+      "importance_rank": 184
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 2,
+      "section_title": "Send a document to get signatures from",
+      "importance_rank": 185
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 8,
+      "section_title": "Signer's experience",
+      "importance_rank": 186
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 9,
+      "section_title": "Steps to send in bulk",
+      "importance_rank": 187
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "section_title": "\u2022  Signature date (Read-Only; Supplied by the system)",
+      "importance_rank": 188
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 20,
+      "section_title": "What can I do with certificate IDs?",
+      "importance_rank": 189
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 20,
+      "section_title": "Why use certificate signatures?",
+      "importance_rank": 190
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "Resources",
+      "importance_rank": 191
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "based signatures?",
+      "importance_rank": 192
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "What if my organization isn\u2019t prepared to set up certificate-",
+      "importance_rank": 193
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 22,
+      "section_title": "Steps to add a certificate-based signature to a PDF",
+      "importance_rank": 194
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 24,
+      "section_title": "Setting up certificate-based signatures",
+      "importance_rank": 195
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 25,
+      "section_title": "Customizing signature workflows using seed values",
+      "importance_rank": 196
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 25,
+      "section_title": "Set signing preferences",
+      "importance_rank": 197
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 26,
+      "section_title": "Set up a roaming ID account",
+      "importance_rank": 198
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 27,
+      "section_title": "Import directory server settings (Windows only)",
+      "importance_rank": 199
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 27,
+      "section_title": "Store certificates on directory servers",
+      "importance_rank": 200
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 28,
+      "section_title": "Export directory server settings (Windows only)",
+      "importance_rank": 201
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 29,
+      "section_title": "Configure a timestamp server",
+      "importance_rank": 202
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 29,
+      "section_title": "Add a timestamp to certificate-based signatures",
+      "importance_rank": 203
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 30,
+      "section_title": "Set a timestamp server as the default",
+      "importance_rank": 204
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "Why validate a digital signature?",
+      "importance_rank": 205
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "What is a digital signature?",
+      "importance_rank": 206
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "(ALCRM) servers",
+      "importance_rank": 207
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "Adobe LiveCycle Rights Management",
+      "importance_rank": 208
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Set automatic validation of signatures: With the Verify signatures when the",
+      "importance_rank": 209
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 4,
+      "section_title": "Set the trust level of a certificate",
+      "importance_rank": 210
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 5,
+      "section_title": "embedded in PDF files to run. JavaScriptTM files can be used in malicious",
+      "importance_rank": 211
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "Validate a digital signature",
+      "importance_rank": 212
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "Timestamp a document",
+      "importance_rank": 213
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "Certify a PDF",
+      "importance_rank": 214
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 8,
+      "section_title": "Trust a signer\u2019s certificate",
+      "importance_rank": 215
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 8,
+      "section_title": "Compare versions of a signed document",
+      "importance_rank": 216
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 8,
+      "section_title": "View previous versions of a digitally signed document",
+      "importance_rank": 217
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 8,
+      "section_title": "Validate all digital signatures",
+      "importance_rank": 218
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 9,
+      "section_title": "Digitally sign on attachments to component PDFs",
+      "importance_rank": 219
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 10,
+      "section_title": "Establish long-term signature validation",
+      "importance_rank": 220
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 10,
+      "section_title": "XML data signatures",
+      "importance_rank": 221
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 11,
+      "section_title": "Add verification information after signing",
+      "importance_rank": 222
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 11,
+      "section_title": "Add verification information at signing",
+      "importance_rank": 223
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 2,
+      "section_title": "Share",
+      "importance_rank": 224
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 7,
+      "section_title": "comment",
+      "importance_rank": 225
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 7,
+      "section_title": "Highlight, strikethrough, or underline text",
+      "importance_rank": 226
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 8,
+      "section_title": "Change the color of the markup",
+      "importance_rank": 227
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 9,
+      "section_title": "Insert text",
+      "importance_rank": 228
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 10,
+      "section_title": "Export text edits",
+      "importance_rank": 229
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 11,
+      "section_title": "Reviewer experience",
+      "importance_rank": 230
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 12,
+      "section_title": "Reviewer experience",
+      "importance_rank": 231
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 12,
+      "section_title": "Initiate a review using @mention in a PDF",
+      "importance_rank": 232
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 14,
+      "section_title": "using Acrobat",
+      "importance_rank": 233
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 14,
+      "section_title": "Initiate SharePoint-based shared review",
+      "importance_rank": 234
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 1,
+      "section_title": "document",
+      "importance_rank": 235
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 1,
+      "section_title": "Add comments while viewing a PDF",
+      "importance_rank": 236
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 2,
+      "section_title": "overview",
+      "importance_rank": 237
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 3,
+      "section_title": "Select an annotation or drawing markup tool",
+      "importance_rank": 238
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 4,
+      "section_title": "Keep an annotation tool selected",
+      "importance_rank": 239
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 5,
+      "section_title": "Edit a comment",
+      "importance_rank": 240
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 5,
+      "section_title": "Steps to add a comment",
+      "importance_rank": 241
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 5,
+      "section_title": "Add a comment",
+      "importance_rank": 242
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 6,
+      "section_title": "Copy partial text in a comment",
+      "importance_rank": 243
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 7,
+      "section_title": "Add a text comment",
+      "importance_rank": 244
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 8,
+      "section_title": "Add reactions to comments on shared files",
+      "importance_rank": 245
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 9,
+      "section_title": "Add an arrow, or shape",
+      "importance_rank": 246
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 11,
+      "section_title": "Group markups",
+      "importance_rank": 247
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 12,
+      "section_title": "Add a comment in text box",
+      "importance_rank": 248
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 12,
+      "section_title": "Add comments in a text box or callout",
+      "importance_rank": 249
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 13,
+      "section_title": "Add a comment in callout",
+      "importance_rank": 250
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 14,
+      "section_title": "Add comments in a file attachment",
+      "importance_rank": 251
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 15,
+      "section_title": "Commenting preferences",
+      "importance_rank": 252
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot?",
+      "importance_rank": 253
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "13. Yes or No: Can you export images from a PDF to another format using Acrobat?",
+      "importance_rank": 254
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "you use the \"Convert\" button in Acrobat or retype the entire document?",
+      "importance_rank": 255
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Acrobat.",
+      "importance_rank": 256
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "11. True or False: You can convert a PDF to a Microsoft PowerPoint presentation using",
+      "importance_rank": 257
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "changed?",
+      "importance_rank": 258
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "10. Yes or No: Does the Autosave feature work if a document's security settings are",
+      "importance_rank": 259
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "client. Do you use \"File > Save\" or \"File > Save As\"?",
+      "importance_rank": 260
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "usage rights.",
+      "importance_rank": 261
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "8.  True or False: Acrobat Reader users can save a copy of a PDF if the creator has enabled",
+      "importance_rank": 262
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "7.  Yes or No: Can you export a PDF to a reusable format like Microsoft Word?",
+      "importance_rank": 263
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "convert your PDF to a PowerPoint file or manually recreate the slides?",
+      "importance_rank": 264
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "default.",
+      "importance_rank": 265
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "5.  True or False: The Autosave feature in Acrobat saves your work every 15 minutes by",
+      "importance_rank": 266
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "4.  Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it?",
+      "importance_rank": 267
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Do you rely on the Autosave feature to recover your work or start from scratch?",
+      "importance_rank": 268
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "2.  True or False: Saving a digitally signed PDF invalidates the signature.",
+      "importance_rank": 269
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "1.  Yes or No: Can you save a PDF in text format to use with a screen reader?",
+      "importance_rank": 270
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "to be a true PDF exporting pro",
+      "importance_rank": 271
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything",
+      "importance_rank": 272
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Export Expert: Test Your Acrobat Exporting Skills",
+      "importance_rank": 273
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 2,
+      "section_title": "20. True or False: The Autosave feature is disabled by default in Acrobat.",
+      "importance_rank": 274
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 2,
+      "section_title": "Do you use the \"Convert to HTML\" option or manually code the content?",
+      "importance_rank": 275
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 2,
+      "section_title": "17. True or False: You can use the Snapshot tool to copy selected content as an image.",
+      "importance_rank": 276
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 2,
+      "section_title": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
+      "importance_rank": 277
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Send the Invitation",
+      "importance_rank": 278
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "fields?",
+      "importance_rank": 279
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Customize Your Message",
+      "importance_rank": 280
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "access?",
+      "importance_rank": 281
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "\u2022  Did you enter the email addresses of everyone who needs",
+      "importance_rank": 282
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Add Recipients",
+      "importance_rank": 283
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "document?",
+      "importance_rank": 284
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "\u2022  Have you decided if recipients can comment or just view the",
+      "importance_rank": 285
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Set Permissions",
+      "importance_rank": 286
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Microsoft Teams or WhatsApp?",
+      "importance_rank": 287
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "\u2022  Are you sharing via email, link, or a third-party app like",
+      "importance_rank": 288
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Choose Your Sharing Method",
+      "importance_rank": 289
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Open Your PDF",
+      "importance_rank": 290
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "General Sharing Checklist",
+      "importance_rank": 291
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "into the essentials of sharing PDFs effectively.",
+      "importance_rank": 292
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "information, this checklist will ensure you cover all the bases. Let's dive",
+      "importance_rank": 293
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "collaborating on a project, seeking feedback, or simply distributing",
+      "importance_rank": 294
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "Sharing PDFs can be a breeze with Adobe Acrobat. Whether you're",
+      "importance_rank": 295
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "The Ultimate PDF Sharing Checklist",
+      "importance_rank": 296
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "just view it?",
+      "importance_rank": 297
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "\u2022  Have you decided if clients can comment on the document or",
+      "importance_rank": 298
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Set Permissions",
+      "importance_rank": 299
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Microsoft Teams or WhatsApp?",
+      "importance_rank": 300
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "\u2022  Are you sharing via email, link, or a third-party app like",
+      "importance_rank": 301
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Choose Your Sharing Method",
+      "importance_rank": 302
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "the property listing or contract you need to share?",
+      "importance_rank": 303
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Open Your Property Document",
+      "importance_rank": 304
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Real Estate Sharing Checklist",
+      "importance_rank": 305
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "following up as needed?",
+      "importance_rank": 306
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "Follow Up",
+      "importance_rank": 307
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "chosen platform?",
+      "importance_rank": 308
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "\u2022  Have you sent the email or shared the link through your",
+      "importance_rank": 309
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "documents. By following these checklists, you can ensure that your",
+      "importance_rank": 310
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "whether you're working on a general project or managing real estate",
+      "importance_rank": 311
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Conclusion",
+      "importance_rank": 312
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "capture your clients' attention.",
+      "importance_rank": 313
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Make sure to emphasize important property details in your message to",
+      "importance_rank": 314
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Follow Up",
+      "importance_rank": 315
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "chosen platform?",
+      "importance_rank": 316
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "\u2022  Have you sent the email or shared the link through your",
+      "importance_rank": 317
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Send the Invitation",
+      "importance_rank": 318
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "fields, highlighting key property details?",
+      "importance_rank": 319
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "Customize Your Message",
+      "importance_rank": 320
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 3,
+      "section_title": "stakeholders?",
+      "importance_rank": 321
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Create and Share the Link",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Create and Share the Link",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill and Sign PDF Forms",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Change flat forms to fillable (Acrobat Pro)",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Select and copy text and images",
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Save forms",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Is the form fillable?",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Auto-Complete forms (interactive forms",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Using Create PDF cloud service for PDF",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Manage your bulk sends",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Print forms",
+      "page_number": 14
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "sharing process is smooth and professional. Start sharing smarter today.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill in PDF Forms",
+      "page_number": 8
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "help you manage your PDF sharing needs.",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Professional Tip: Clear Instructions",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Types of PDF forms",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Did you generate a shareable link and copy it for distribution?",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Did you generate a shareable link and copy it for distribution?",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Professional Tip: Highlight Key Details",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill in interactive forms",
+      "page_number": 8
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "19. Yes or No: Can you select and copy text and images from a PDF using the Select tool?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Add Clients and Stakeholders",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Convert PDF to Text and XML 1.0",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Create PDFs by printing to file",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Certifying and signing documents",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "What\u2019s the best way to create a PDF?",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Convert Microsoft Word, PowerPoint, and",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Create the appearance of a certificate-based signature",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "About editing text and images",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Group and ungroup markups",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Create PDFs from Word mail merges",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Sign component PDFs and PDF Portfolios",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Annotations and drawing markup tools",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "View signed and certified PDF Portfolios",
+      "page_number": 9
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "confusion for your recipients.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "PKCS#12 modules and tokens",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Show annotations and drawing markup tools",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Are you tracking who has accessed the document and",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Are you tracking who has accessed the document and",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Have you launched Acrobat or Acrobat Reader and opened",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Have you launched Acrobat or Acrobat Reader and opened",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "appears, and then drag a rectangle around the portion.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": ", draw a rectangle, right-click, and select Take a Snapshot.",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Sharing PDFs with Adobe Acrobat is straightforward and efficient,",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Have you added a personal touch to the subject and message",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Have you added a personal touch to the subject and message",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Set preferences for validating digital signatures",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "clipboard or another application. Text and images are copied as an image.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Convert AutoCAD files to PDF (Acrobat Pro for",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Sharing Checklist for Real Estate Professionals",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Did you enter the email addresses of clients, agents, and other",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "3.  Right-click the selection, and choose Save Selection As.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Provide feedback for generated answers",
+      "page_number": 30
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Enhance scanned file or camera images for",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Note: To deselect an image and start over, click outside it.",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Ensure your email instructions are clear and concise to avoid any",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "closing deals and keeping clients informed. Here's a tailored checklist to",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "File format op\ufffdons for PDF export in Acrobat",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Sign in preview mode for document integrity",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "the document, right-click, and select Paste to paste the copied selection",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "(macOS) Select Edit in the upper left. Then select Undo, Redo and More",
+      "page_number": 3
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "3.  Scenario: Imagine you're working on an important report and your computer crashes.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "2.  Right-click the image and select copy. Once done, you can paste it to a new file or a",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "following up with clients for feedback or next steps?",
+      "page_number": 3
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "about saving, converting, and exporting PDFs? It's time to put your knowledge to the test.",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "In the real estate industry, sharing documents efficiently is crucial for",
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "4.  In the Save As dialog, specify where you want to save the file, name the file, and then",
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "9.  Scenario: You're a graphic designer who needs to save a copy of a PDF Portfolio for a",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "6.  Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "15. Scenario: You're a photographer who wants to save a PDF as a JPEG image for your",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "18. Scenario: You're a web developer who needs to export a PDF to HTML for your website.",
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "14. True or False: Higher resolutions, like 2400 ppi, are suitable for small page sizes.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "commands",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Convert a file to PDF using Acrobat menu",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Convert a file to PDF using the Convert to PDF tool",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "conversion",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Convert a file to PDF using PDFMaker",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "View PDFMaker conversion settings",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Excel files to PDF",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Convert email messages to PDFs",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Add email messages or folders to an existing PDF",
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Set up automatic email archiving",
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Convert Visio files to PDF (Acrobat Pro)",
+      "page_number": 29
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Windows)",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Excel-specific options on the Settings tab",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Application-specific PDFMaker settings",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "PowerPoint-specific options on the Settings tab",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Adobe PDF printing preferences (Windows)",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Reassign the port that the Adobe PDF printer uses",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Set Adobe PDF printer properties (Windows)",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Edit text in a PDF",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Add images in a PDF",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Edit images or objects in a PDF",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Modify images in a PDF",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Add Objects to PDF",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Delete images from a PDF",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Edit an image outside Acrobat",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Export PDF images to another format",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "pages in a PDF",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Rotate, move, delete, extract, or renumber",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Extract random pages from a PDF",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Extract pages from a PDF",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Split PDFs into multiple documents",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Copy a page between two PDFs",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Move or copy pages in a PDF",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Delete or replace pages in a PDF",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Delete a page in a PDF",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Renumber pages in a PDF",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Recognize text on scanned PDF",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Edit Scanned PDFs",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "Edit a scanned document",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "refined_text": "clear PDFs",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Export",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Recover the last saved version",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Adobe PDF options",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "PDF to Microso\ufffd Word conversion se\ufffdngs",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Convert PDF to RTF",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Convert PDF to HTML Web Page",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Convert PDF to Microso\ufffd Excel",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "PostScript (EPS)",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Convert PDF to PostScript or Encapsulated",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Convert selected content to other formats",
+      "page_number": 30
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "clipboard.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "hair icon",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "\u2022  To select a portion of an image, hold the pointer over the image until the cross-",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "\u2022  To select the entire image, select the image or drag a rectangle around it.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "1.  Using the Select tool",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": ", do one of the following:",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "images before text.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "select Preferences. Under Categories, Select General. Then select the Make Select tool select",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Select Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Open the Preferences dialog box if you cannot select an image because of overlapping text.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "application, or a file.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Copy images",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "select Save.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "2.  Select the object or objects.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "1.  Select All tools > Use print production > Edit object.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Using the Edit Object tool, you can save objects into a separate PDF.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Export objects to separate PDF",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "feature isn\u2019t available in Reader.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "You can save all the images from a PDF. See Export images to another format . This",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Note:",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "directly into the target document.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "mouse/touchpad button. If a document is open in another application, go to",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "The selection is copied automatically to the clipboard when you release the",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Colors in the selected area are inverted momentarily to highlight the selection.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "\u2022  Drag a rectangle within an image to copy just a portion of the image.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "\u2022  Drag a rectangle around the text or images or a combination of both.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "screen.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "\u2022  Select anywhere on the page to capture the entire content displayed on the",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "2.  Do one of the following:",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "more.",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "1.   (Windows) Select the hamburger menu   in the upper left. Then select Undo, Redo &",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "To use the Snapshot tool, do the following:",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "tool",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "You can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "refined_text": "Take a snapshot of a page",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "To fill text fields:",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Enable the Auto-Complete option",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "only)",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Clear unsaved form entries",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Sign an agreement",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Remove your signature or initials",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Overview of generative AI features",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Before You Begin",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Prerequisites",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Acrobat",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Report inappropriate content",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "features",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Rate your experience with the generative AI",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "Turn off AI Assistant",
+      "page_number": 32
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Copy chat history",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Read-aloud generated responses",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Multiple document support in AI Assistant",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Request access in Acrobat",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Review the status of your request",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Common questions",
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Prerequisites",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "License deployment",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "others",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Send a document to get signatures from",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Signer's experience",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Steps to send in bulk",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "\u2022  Signature date (Read-Only; Supplied by the system)",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "What can I do with certificate IDs?",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Why use certificate signatures?",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Resources",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "based signatures?",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "What if my organization isn\u2019t prepared to set up certificate-",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Steps to add a certificate-based signature to a PDF",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Setting up certificate-based signatures",
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Customizing signature workflows using seed values",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Set signing preferences",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Set up a roaming ID account",
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Import directory server settings (Windows only)",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Store certificates on directory servers",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Export directory server settings (Windows only)",
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Configure a timestamp server",
+      "page_number": 29
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Add a timestamp to certificate-based signatures",
+      "page_number": 29
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Set a timestamp server as the default",
+      "page_number": 30
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Why validate a digital signature?",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "What is a digital signature?",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "(ALCRM) servers",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Adobe LiveCycle Rights Management",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "\u2022  Set automatic validation of signatures: With the Verify signatures when the",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Set the trust level of a certificate",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "embedded in PDF files to run. JavaScriptTM files can be used in malicious",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Validate a digital signature",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Timestamp a document",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Certify a PDF",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Trust a signer\u2019s certificate",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Compare versions of a signed document",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "View previous versions of a digitally signed document",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Validate all digital signatures",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Digitally sign on attachments to component PDFs",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Establish long-term signature validation",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "XML data signatures",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Add verification information after signing",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Add verification information at signing",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Share",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "comment",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Highlight, strikethrough, or underline text",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Change the color of the markup",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Insert text",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Export text edits",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Reviewer experience",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Reviewer experience",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Initiate a review using @mention in a PDF",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "using Acrobat",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Initiate SharePoint-based shared review",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "document",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add comments while viewing a PDF",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "overview",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Select an annotation or drawing markup tool",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Keep an annotation tool selected",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Edit a comment",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Steps to add a comment",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add a comment",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Copy partial text in a comment",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add a text comment",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add reactions to comments on shared files",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add an arrow, or shape",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Group markups",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add a comment in text box",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add comments in a text box or callout",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add a comment in callout",
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Add comments in a file attachment",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "Commenting preferences",
+      "page_number": 15
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "13. Yes or No: Can you export images from a PDF to another format using Acrobat?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "you use the \"Convert\" button in Acrobat or retype the entire document?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Acrobat.",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "11. True or False: You can convert a PDF to a Microsoft PowerPoint presentation using",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "changed?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "10. Yes or No: Does the Autosave feature work if a document's security settings are",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "client. Do you use \"File > Save\" or \"File > Save As\"?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "usage rights.",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "8.  True or False: Acrobat Reader users can save a copy of a PDF if the creator has enabled",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "7.  Yes or No: Can you export a PDF to a reusable format like Microsoft Word?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "convert your PDF to a PowerPoint file or manually recreate the slides?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "default.",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "5.  True or False: The Autosave feature in Acrobat saves your work every 15 minutes by",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "4.  Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Do you rely on the Autosave feature to recover your work or start from scratch?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "2.  True or False: Saving a digitally signed PDF invalidates the signature.",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "1.  Yes or No: Can you save a PDF in text format to use with a screen reader?",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "to be a true PDF exporting pro",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Export Expert: Test Your Acrobat Exporting Skills",
+      "page_number": 1
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "20. True or False: The Autosave feature is disabled by default in Acrobat.",
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "Do you use the \"Convert to HTML\" option or manually code the content?",
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "17. True or False: You can use the Snapshot tool to copy selected content as an image.",
+      "page_number": 2
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "refined_text": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Send the Invitation",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "fields?",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Customize Your Message",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "access?",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Did you enter the email addresses of everyone who needs",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Add Recipients",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "document?",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Have you decided if recipients can comment or just view the",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Set Permissions",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Microsoft Teams or WhatsApp?",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Are you sharing via email, link, or a third-party app like",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Choose Your Sharing Method",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Open Your PDF",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "General Sharing Checklist",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "into the essentials of sharing PDFs effectively.",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "information, this checklist will ensure you cover all the bases. Let's dive",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "collaborating on a project, seeking feedback, or simply distributing",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Sharing PDFs can be a breeze with Adobe Acrobat. Whether you're",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "The Ultimate PDF Sharing Checklist",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "just view it?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Have you decided if clients can comment on the document or",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Set Permissions",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Microsoft Teams or WhatsApp?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Are you sharing via email, link, or a third-party app like",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Choose Your Sharing Method",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "the property listing or contract you need to share?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Open Your Property Document",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Real Estate Sharing Checklist",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "following up as needed?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Follow Up",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "chosen platform?",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Have you sent the email or shared the link through your",
+      "page_number": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "documents. By following these checklists, you can ensure that your",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "whether you're working on a general project or managing real estate",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Conclusion",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "capture your clients' attention.",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Make sure to emphasize important property details in your message to",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Follow Up",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "chosen platform?",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "\u2022  Have you sent the email or shared the link through your",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Send the Invitation",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "fields, highlighting key property details?",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Customize Your Message",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "stakeholders?",
+      "page_number": 3
+    }
+  ]
+}
