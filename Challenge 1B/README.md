@@ -128,7 +128,7 @@ output/
 ## 👨‍💻 Team & Contact
 Aditya kumar Singh (<adityasingh45245@gmail.com>)
 Shivam Srivastava (<shivamsrivastava5095@gmail.com>)
-Ankur Kumar 
+Ankur Kumar (<ak7372840611@gmail.com>)
 ---
 
 ## 🙌 Why We Should Win
